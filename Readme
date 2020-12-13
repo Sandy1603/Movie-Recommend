@@ -1,0 +1,11 @@
+# Movie-Recommendation -System
+This is  hollywood Movie-Recommendation -System application built by Python. I used IMDB 5000 Movie Dataset to built this.
+Dataset :- https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+
+Application Link :- https://mv-rec.herokuapp.com/
+
+
+Summery :
+1. Consider Raw data and apply Data Preprocessing, Check the code in  preprocessing.ipynb
+2. Application Running in main.py file 
+3. This is Flask based Framework
